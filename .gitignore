@@ -1,0 +1,29 @@
+# Archives
+*.tar.gz
+*.tgz
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.venv/
+pysailor/
+venv/
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+
+# Editors
+*~
+*.bak
+*.swp
